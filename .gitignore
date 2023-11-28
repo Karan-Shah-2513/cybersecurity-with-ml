@@ -1,0 +1,10 @@
+venv
+dataset
+
+2-affected_component
+3-scenario
+4-operational-scenario
+5-combined_affected_component
+6-combined_scenario
+
+dataset_processed.csv
